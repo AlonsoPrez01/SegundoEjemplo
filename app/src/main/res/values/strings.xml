@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SegundoEjemplo</string>
+    <string name="btn_primerA">Primer Activity</string>
+    <string name="btn_segundaA">Segundo Activity</string>
+    <string name="mv0">Main Activity</string>
+    <!---->
+    <string name="btn_mainA">Main Activity</string>
+    <string name="btn1_a2">Segundo Activity</string>
+    <string name="pv1">Primer Activity</string>
+    <!---->
+    <string name="btn_mA">Main Activity</string>
+    <string name="btn_pA">Primer Activity</string>
+    <string name="sv2">Segundo Activity</string>
+</resources>
